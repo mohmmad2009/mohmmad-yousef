@@ -1,0 +1,112 @@
+body{
+
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+p{
+
+
+    font-size: 20px;
+    color: #AA1C41;
+    font-weight: bold;
+}
+
+mark{
+
+
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    
+}
+
+h1{
+
+
+}
+
+#mk{  /*تنسيق اعلي الصفحه*/
+
+
+    background-color: #D0E7E6;
+    color: #006aff;
+    padding: 20px
+
+    
+}
+
+section.s1{
+
+background-color: #79a3f7;
+    color: #006aff;
+    padding: 15px;
+    
+
+}
+section.s2{
+
+
+    background-color: #95CCDD;
+    color: #006aff;
+    padding: 15px;
+    border: 1px;
+
+    
+}
+
+section.s3{
+
+    background-color: #7ba0ea;
+    color: #006aff;
+    forced-color-adjust: auto;
+    font-size: 20px;
+}
+
+section.s4{
+
+    background-color: #95CCDD;
+    color: #006aff;
+}
+
+section.s5{
+
+    background-color: #659287;
+    color: #006aff;
+}
+
+label{
+
+
+    color: #AA1C41;
+    font-size: larger;
+    font-weight: bold;
+}
+ 
+input.m1{
+
+    background-color: brown;
+    
+}
+
+h2.ms{
+
+
+    font-size: 22px;
+    font-weight: bold;
+    color: #AA1C41;
+}
+
+h2.ms1{
+
+
+    font-size: 22px;
+    font-weight: 700;
+    color: #AA1C41;
+}
+
+strong{
+
+
+    color: #00e404;
+}
